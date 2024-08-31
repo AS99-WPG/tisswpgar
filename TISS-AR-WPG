@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TISS WPGAR Alumni Relations</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to TISS WPGAR Alumni Relations</h1>
+        <nav>
+            <ul>
+                <li><a href="#directory">Alumni Directory</a></li>
+                <li><a href="#newsletter">Newsletter</a></li>
+                <li><a href="#chat">Chat</a></li>
+                <li><a href="#gallery">Gallery</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section id="hero">
+        <p>Connecting Alumni with the Current Batch for a Brighter Future</p>
+    </section>
+    <footer>
+        <p>&copy; 2024 TISS Water Policy and Governance Alumni Relations</p>
+    </footer>
+</body>
+</html>
+
+<section id="directory">
+    <h2>Alumni Directory</h2>
+    <p>Access is restricted to Alumni Representatives.</p>
+    <!-- Add a login form and a searchable directory list here -->
+</section>
+<section id="newsletter">
+    <h2>Newsletter</h2>
+    <!-- Post events, stories, and highlights here -->
+</section>
+<section id="chat">
+    <h2>Chat</h2>
+    <!-- Implement a simple chat interface here -->
+</section>
+<section id="gallery">
+    <h2>Event Gallery</h2>
+    <!-- Add a water-themed gallery of images here -->
+</section>
